@@ -1,13 +1,13 @@
 export const siteConfig = {
-  name: "Mouad Bajjouk",
-  profession: "Software Engineer | Specializing in .NET & Angular | Prioritizing Code Quality and Performance Optimization",
+  name: "Reda Hammada",
+  profession:
+    "Software developer | Specializing in React & Nest & mern stack | Enhancing the user experience in the browser",
   url: "",
   ogImage: "",
   description: "",
   links: {
-    twitter: "https://twitter.com/mouad_baj",
-    github: "https://github.com/mouadbajjouk",
-    linkedin: "https://www.linkedin.com/in/mouadbajjouk/",
+    github: "https://github.com/Reda-Hammada",
+    linkedin: "https://www.linkedin.com/in/reda-hammada/",
   },
 };
 

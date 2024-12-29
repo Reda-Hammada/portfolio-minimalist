@@ -12,66 +12,46 @@ interface Experience {
 
 export const experiences: Experience[] = [
   {
-    company_name: "TeraByte-Software",
-    work_years: "2021 – PRESENT",
+    company_name: "Terabyte Software",
+    work_years: "2023 – PRESENT",
     projects: [
       {
-        project_name: "InsightsRadar",
+        project_name: "INVOLV3",
         project_description:
-          "I have worked on a data-driven API for InsightsRadar, helping businesses gain insights into customers and operations for better decision-making.",
-        used_stack: ["C#", ".NET 6", "SQL Server", "Azure SQL Database"],
-      },
-      {
-        project_name: "EnviDan",
-        project_description:
-          "Engaged in the development of a monolithic solution for EnviDan, widely used by many Danish municipalities. I played a key role in implementing new features and fixing existing bugs, ensuring the seamless operation of services related to septic tank management, water operations, wastewater, and other environmental sectors.",
+          "INVOLV3 is a danish software solution that generates valuable insights through GAP assessments to assist customers in making informed purchasing decisions",
         used_stack: [
-          "C#",
-          ".NET Framework 4.8",
-          "SQL Server",
-          "Azure SQL Database",
+          "JavaScript",
+          " React.js",
+          " Dva.js",
+          "Ant design",
+          "Less",
+          " Redux saga ",
         ],
       },
       {
-        project_name: "Momentum Solutions",
+        project_name: "Ajiel",
         project_description:
-          "Played a key role in migrating the EnviRen project and its database from EnviDan to Momentum Solutions. This involved creating a new cloud architecture and making significant codebase changes to ensure the project's successful transition and functionality.",
+          "Ajiel is a SaaS solution for comprehensive payroll and personnel management tailored to Moroccan legislation and integrating innovative features such as decentralized absence management",
         used_stack: [
-          "C#",
-          ".NET Framework 4.8",
-          ".NET Core 3.1",
-          "SQL Server",
-          "Azure VM",
-          "Azure SQL Database",
-          "Cosmos DB",
+          "Typescript",
+          "Next.js",
+          "Material UI",
+          "Schadcn",
+          "Tailwind",
+          "react query",
+          "zustand ",
         ],
       },
       {
-        project_name: "EcoScore",
+        project_name: "Better2know",
         project_description:
-          "I spearheaded the development of a new API, EcoScore, within the EcoCure solution. This API focuses on calculating vehicle emissions and assigning scores based on ESG guidelines and regulations.",
+          "Better2Know An online booking system that facilitates the process of booking the right clinical test for patients",
         used_stack: [
-          "C#",
-          ".NET 8",
-          "SQL Server",
-          "SQL Lite",
-          "Azure SQL Database",
-          "Azure App Service",
-        ],
-      },
-      {
-        project_name: "TeraByteIoT",
-        project_description:
-          "I contributed to the development of a microservice, encompassing both frontend and backend components, within the TeraByte IoT system. This microservice functions as a customer portal for businesses utilizing IOT devices in their operations.",
-        used_stack: [
-          "C#",
-          ".NET 8",
-          "SQL Server",
-          "Redis",
-          "Docker",
-          "Keycloak",
-          "TypeScript",
-          "React",
+          "Vue.js",
+          "Nuxt.js",
+          "Typescript",
+          "Tailwind css",
+          "pinia",
         ],
       },
     ],

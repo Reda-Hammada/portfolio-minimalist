@@ -1,8 +1,8 @@
 import Home from "./modules/home";
 import Navbar from "./modules/navbar";
 import Stack from "./modules/stack";
-import Education from "./modules/education";
 import Experience from "./modules/experience";
+import Contact from "./modules/contact/contatct";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <Home />
       <Experience />
       <Stack />
-      <Education />
+      <Contact />
     </div>
   );
 }

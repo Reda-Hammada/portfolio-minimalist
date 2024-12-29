@@ -10,11 +10,6 @@ export default function Navbar() {
         <span className="text-sm">{siteConfig.profession}</span>
       </div>
       <div className="flex space-x-2">
-        <a href={siteConfig.links.twitter} target="_blank">
-          <Button size={"icon"} variant={"secondary"}>
-            <TwitterLogoIcon className="w-4" />
-          </Button>
-        </a>
         <a href={siteConfig.links.github} target="_blank">
           <Button size={"icon"} variant={"secondary"}>
             <GitHubLogoIcon className="w-4" />

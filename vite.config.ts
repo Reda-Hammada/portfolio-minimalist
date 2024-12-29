@@ -5,7 +5,7 @@ import svgLoader from "vite-svg-loader";
 
 export default defineConfig({
   plugins: [react(), svgLoader({ defaultImport: "url" })],
-  base: "/portfolio/",
+  base: "/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),

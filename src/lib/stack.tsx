@@ -1,45 +1,55 @@
-import AngularIcon from "./icons/AngularIcon";
-import AzureIcon from "./icons/AzureIcon";
-import CsharpIcon from "./icons/CsharpIcon";
-import DockerIcon from "./icons/DockerIcon";
-import DotnetIcon from "./icons/DotnetIcon";
-import SqlServerIcon from "./icons/SqlServerIcon";
+import Nextjs from "./icons/Nextjs";
+import ReactIcon from "./icons/ReactIcon";
 import TypescriptIcon from "./icons/TypescriptIcon";
-import UnityIcon from "./icons/UnityIcon";
+import Vuejs from "./icons/Vue";
 import { Stack } from "./types";
+import Nuxtjs from "./icons/Nuxtjs";
+import Tailwind from "./icons/Tailwind";
+import Nestjs from "./icons/Nest";
+import Expressjs from "./icons/Express";
+import MongoDB from "./icons/MongoDB";
+import SQL from "./icons/SQL";
 
 const stacks: Stack[] = [
   {
-    name: "C#",
-    icon: <CsharpIcon />,
+    name: "React",
+    icon: <ReactIcon />,
   },
   {
-    name: ".NET",
-    icon: <DotnetIcon />,
+    name: "Vue",
+    icon: <Vuejs />,
   },
   {
-    name: "SQL Server",
-    icon: <SqlServerIcon />,
+    name: "Nuxt.js",
+    icon: <Nuxtjs />,
   },
   {
-    name: "Microsoft Azure",
-    icon: <AzureIcon />,
+    name: "Next.js",
+    icon: <Nextjs />,
   },
   {
-    name: "Docker",
-    icon: <DockerIcon />,
+    name: "Tailwind css",
+    icon: <Tailwind />,
   },
   {
     name: "Typescript",
     icon: <TypescriptIcon />,
   },
   {
-    name: "Angular",
-    icon: <AngularIcon />,
+    name: "Express.js",
+    icon: <Expressjs />,
   },
   {
-    name: "Unity",
-    icon: <UnityIcon/>,
+    name: "Nest.js",
+    icon: <Nestjs />,
+  },
+  {
+    name: "MongoDB",
+    icon: <MongoDB />,
+  },
+  {
+    name: "SQL",
+    icon: <></>,
   },
 ];
 
