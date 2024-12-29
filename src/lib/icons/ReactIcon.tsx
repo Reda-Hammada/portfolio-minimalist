@@ -1,4 +1,3 @@
-import React from "react";
 
 const ReactIcon = () => {
     return <svg viewBox="0 0 128 128">

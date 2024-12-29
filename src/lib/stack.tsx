@@ -8,7 +8,6 @@ import Tailwind from "./icons/Tailwind";
 import Nestjs from "./icons/Nest";
 import Expressjs from "./icons/Express";
 import MongoDB from "./icons/MongoDB";
-import SQL from "./icons/SQL";
 
 const stacks: Stack[] = [
   {
