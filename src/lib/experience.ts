@@ -12,7 +12,7 @@ interface Experience {
 
 export const experiences: Experience[] = [
   {
-    company_name: "Terabyte Software",
+    company_name: "Terabyte Software - Frontend Developer",
     work_years: "2023 – PRESENT",
     projects: [
       {
