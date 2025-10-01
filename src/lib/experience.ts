@@ -29,6 +29,19 @@ export const experiences: Experience[] = [
         ],
       },
       {
+        project_name: "INVOLV3 +AI",
+        project_description:
+          "An AI-powered extension of INVOLV3 that enhances GAP assessments by automating analysis, generating tailored reports, and improving project success through smarter involvement and decision-making support.",
+        used_stack: [
+          "TypeScript",
+          " React.js",
+          " Tailwind CSS",
+          "shadcn/ui",
+          "React Query",
+          " Zustand",
+        ],
+      },
+      {
         project_name: "Ajiel",
         project_description:
           "Ajiel is a SaaS solution for comprehensive payroll and personnel management tailored to Moroccan legislation and integrating innovative features such as decentralized absence management",
