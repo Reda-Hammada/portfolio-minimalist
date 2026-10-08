@@ -13,7 +13,7 @@ export default function Home() {
 
         I'm also exploring web security and penetration testing to complement my development skills and enhance the applications I build. With a solid foundation in private law and a drive to innovate, I bring a unique perspective to every project.
       </p>
-      <a href="/portfolio-minimalist/resume.pdf" target="_balank">
+      <a href="/portfolio-minimalist/reda-hammada-resume.pdf" target="_balank">
         <button className="text-center mt-2  bg-background bg-foreground text-[#fff] w-[200px] h-[40px] rounded">read my resume</button>
       </a>
     </div>
