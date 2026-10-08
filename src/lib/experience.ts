@@ -41,6 +41,15 @@ export const experiences: Experience[] = [
           " Zustand",
         ],
       },
+       {
+        project_name: "JLFILTER",
+        project_description:
+          "Stock management and predictive inventory platform ",
+        used_stack: [
+         "React.js", "React Query", "Materia UI",
+         "Node.js", "Express.js", "TypeScript", "Sequelize"
+        ],
+      },
       {
         project_name: "Ajiel",
         project_description:
